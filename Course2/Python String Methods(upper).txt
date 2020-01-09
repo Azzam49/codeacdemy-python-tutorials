@@ -1,0 +1,5 @@
+Now your string is 100% lower case! A similar method exists to make a string completely upper case.
+
+>>> print(parrot.upper())
+NORWEGIAN BLUE
+>>>

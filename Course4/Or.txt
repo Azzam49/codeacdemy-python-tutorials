@@ -1,0 +1,5 @@
+Or
+The boolean operator or returns True when at least one expression on either side of or is true. For example:
+
+1 < 2 or 2 > 3 is True;
+1 > 2 or 2 > 3 is False.

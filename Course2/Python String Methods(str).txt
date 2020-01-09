@@ -1,0 +1,6 @@
+STRINGS & CONSOLE OUTPUT
+str()
+Now let's look at str(), which is a little less straightforward. The str() method turns non-strings into strings! For example:
+
+str(2)
+would turn 2 into "2".

@@ -1,0 +1,23 @@
+STRINGS & CONSOLE OUTPUT
+String methods
+Great work! Now that we know how to store strings, let's see how we can change them using string methods.
+
+String methods let you perform specific tasks for strings.
+
+We'll focus on four string methods:
+
+len()
+lower()
+upper()
+str()
+Let's start with len(), which gets the length (the number of characters) of a string!
+
+
+
+Example : 
+>>> parrot = "Norwegian Blue"
+>>> print len(parrot)
+SyntaxError: invalid syntax
+>>> print(len(parrot))
+14
+>>> 

@@ -1,0 +1,44 @@
+CONDITIONALS & CONTROL FLOW
+Compare Closely!
+Let's start with the simplest aspect of control flow: comparators. There are six:
+
+Equal to (==)
+
+>>> 2 == 2
+True
+>>> 2 == 5
+False
+Not equal to (!=)
+
+>>> 2 != 5
+True
+>>> 2 != 2
+False
+Less than (<)
+
+>>> 2 < 5
+True
+>>> 5 < 2
+False
+Less than or equal to (<=)
+
+>>> 2 <= 2
+True
+>>> 5 <= 2
+False
+Greater than (>)
+
+>>> 5 > 2
+True
+>>> 2 > 5
+False
+Greater than or equal to (>=)
+
+>>> 5 >= 5
+True
+>>> 2 >= 5
+False
+Comparators check if a value is (or is not) equal to, greater than (or equal to), or less than (or equal to) another value.
+
+Note that == compares whether two things are equal, and = assigns a value to a variable.
+

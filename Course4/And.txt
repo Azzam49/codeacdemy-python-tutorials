@@ -1,0 +1,6 @@
+CONDITIONALS & CONTROL FLOW
+And
+The boolean operator and returns True when the expressions on both sides of and are true. For instance:
+
+1 < 2 and 2 < 3 is True;
+1 < 2 and 2 > 3 is False.

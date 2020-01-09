@@ -1,0 +1,6 @@
+Not
+The boolean operator not returns True for false statements and False for true statements.
+
+For example:
+
+not False will evaluate to True, while not 41 > 40 will return False.
